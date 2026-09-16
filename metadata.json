@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Plus",
+  "description": "A centralized healthcare management system for multi-branch hospitals, diagnostic centers, and pharmacies. Features include patient records, doctor scheduling, billing, and pharmacy inventory management with a full relational database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
