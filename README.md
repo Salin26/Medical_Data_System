@@ -1,20 +1,151 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🏥 Medical Data System
 
-# Run and deploy your AI Studio app
+A modern web-based **Medical Data Management System** designed to organize and manage medical information through a clean, user-friendly interface.
 
-This contains everything you need to run your app locally.
+🔗 **Live Demo:** https://medical-data-system.vercel.app/
 
-View your app in AI Studio: https://ai.studio/apps/d9398b06-1404-456b-b6cf-5f9eb6f47d5b
+---
 
-## Run Locally
+## 📌 Overview
 
-**Prerequisites:**  Node.js
+**Medical Data System** is a web application developed to provide a centralized platform for managing medical-related information.
 
+The system focuses on making medical data easier to organize, access, and manage through an intuitive interface.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ✨ Features
+
+* 🏥 Medical data management
+* 👨‍⚕️ Patient and healthcare-related information management
+* 📋 Organized medical records
+* 🔎 Easy data access and navigation
+* 📊 Clean and responsive dashboard/interface
+* 💻 Modern web-based UI
+* 📱 Responsive design for different screen sizes
+* ⚡ Fast and interactive user experience
+
+---
+
+## 🛠️ Technologies Used
+
+* **React**
+* **TypeScript**
+* **Vite**
+* **Tailwind CSS**
+* **JavaScript / HTML / CSS**
+* **Vercel** — Deployment
+
+---
+
+## 📂 Project Structure
+
+```text
+medical-data-system/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+│
+├── public/
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── vite.config.ts
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd medical-data-system
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 🌐 Live Deployment
+
+The application is deployed using **Vercel**.
+
+### Live Website
+
+👉 https://medical-data-system.vercel.app/
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are to:
+
+* Develop a practical medical data management application.
+* Provide an organized interface for handling medical information.
+* Demonstrate modern frontend development techniques.
+* Build a responsive and user-friendly web application.
+* Gain practical experience with React, TypeScript, and Vite.
+
+---
+
+## 🔮 Future Improvements
+
+Possible future improvements include:
+
+* 🔐 User authentication and authorization
+* 🗄️ Integration with a real database
+* 👤 Patient profile management
+* 📅 Appointment scheduling
+* 💊 Prescription management
+* 📄 Medical report generation
+* 📊 Advanced analytics and reporting
+* 🔔 Notifications and reminders
+* 🛡️ Improved data security and access control
+
+---
+
+## 👨‍💻 Author
+
+**Sheikh Samiya Samad Joya**
+**Mushfiqur Rahman Salin**
+Computer Science / Software Development Project
+
+---
+
+## 📄 License
+
+This project is developed for **educational and academic purposes**.
+
+---
+
+⭐ If you find this project useful, consider giving the repository a star!
